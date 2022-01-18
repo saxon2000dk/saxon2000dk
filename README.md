@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saxon2000dk
-- 👀 I’m interested in C/C++, Linux, C#, Linux server (Samba, postfix, firewall, network etc.)
+- 👀 I’m interested in C/C++, Linux, C#, Linux server (samba, postfix, firewall, network, VPN etc.)
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
